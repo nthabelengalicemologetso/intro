@@ -9,6 +9,7 @@ I analyse financial and banking data to help organisations understand risk and m
 #Reach me: nthabelengalicemologetso@gmailcom
 
 #CONNECT WITH ME :
+
 <img width="177" height="170" alt="Screenshot 2026-09-28 222739" src="https://github.com/user-attachments/assets/70ca4cf7-5f64-4f94-8661-770fb6acf55c" />
 
 Tools: SQL , EXCEL, POWERBI,PYTHON (PANDAS,NUMPY,MATPLOTLIB,PLOTLY,SCIKIT-LEARN,STATS)
