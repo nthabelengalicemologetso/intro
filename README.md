@@ -8,7 +8,7 @@ I analyse financial and banking data to help organisations understand risk and m
 #-All my projects are available here:  
 #Reach me: nthabelengalicemologetso@gmailcom
 
-#CONNECT WITH ME :
+#CONNECT WITH ME : www.linkedin.com/in/nthabeleng-alice-mologetso-data-scientist
 
 <img width="177" height="170" alt="Screenshot 2026-09-28 222739" src="https://github.com/user-attachments/assets/70ca4cf7-5f64-4f94-8661-770fb6acf55c" />
 
